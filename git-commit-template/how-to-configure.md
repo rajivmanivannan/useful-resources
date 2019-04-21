@@ -1,4 +1,4 @@
-# To configure the git template
+# Configure the git template
 
 * To apply the template save the ".git-commit-template.txt" file to your local machine and use
 
