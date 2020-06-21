@@ -132,4 +132,3 @@ supports regular expressions
 * alt+b — move cursor backward 1 word
 
 - - -
-- - -

@@ -165,7 +165,7 @@ is available.
 costly. Should be minimized as much as possible.
 
 - - -
-- - -
+
 
 ### Product Baclog Item
 
@@ -178,3 +178,4 @@ PBI - Product Backlog Item is categorized mainly in four fundamental type.
 
 Characteristics of a good Product Backlog is it should be DEEP:
 Detailed appropriately,Emergent, Estimated and Prioritized.
+- - -
