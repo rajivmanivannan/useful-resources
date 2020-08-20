@@ -57,7 +57,7 @@ squreRoot(argument);
 
 print(2+2); // Statement
 
-2+2 //in the above statement is expression
+2+2 // Expression in the above statement
 
 ```
 
