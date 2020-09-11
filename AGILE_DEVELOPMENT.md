@@ -22,7 +22,7 @@ specifications.
 
 * Product Backlog - a prioritized list of work for the development
 team that is derived from the road map and its requirements.
-It is composed of [Product Backlog Item.](###Product-Baclog-Item)
+It is composed of [Product Backlog Item.](#Product-Baclog-Item)
 
 * Epic — Grand product vision. Epics can be broken down
 into user stories.
