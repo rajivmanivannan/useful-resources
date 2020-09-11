@@ -22,7 +22,7 @@ specifications.
 
 * Product Backlog - a prioritized list of work for the development
 team that is derived from the road map and its requirements.
-It is composed of[ Product Backlog Item.](###Product-Baclog-Item)
+It is composed of[Product Backlog Item.](###Product-Baclog-Item)
 
 * Epic — Grand product vision. Epics can be broken down
 into user stories.
@@ -176,6 +176,10 @@ PBI - Product Backlog Item is categorized mainly in four fundamental type.
 * Technical Work — upgrading to the latest version or refactoring a previously completed code.
 * Knowledge Acquistion  — when team is presented with a high degree of uncertainty a common and effective solution is to research information. Ex: prototype, proof-of-concept, research, experiment, spike, etc.,
 
-Characteristics of a good Product Backlog is it should be DEEP:
-Detailed appropriately,Emergent, Estimated and Prioritized.
+Characteristics of a good Product Backlog is it should be DEEP:  
+
+- Detailed appropriately  
+- Emergent   
+- Estimated  
+- Prioritized
 - - -
